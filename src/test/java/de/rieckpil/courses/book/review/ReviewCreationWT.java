@@ -26,7 +26,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 
 class ReviewCreationWT extends AbstractWebTest {
-
+//Test comment
   @Autowired private BookRepository bookRepository;
 
   @Autowired private ReviewRepository reviewRepository;
